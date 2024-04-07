@@ -93,9 +93,9 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-!(DocImages/MoleculeDiagram.png)
+!(DocImages/MoleculeDiagram.PNG)
 ### 3.2. Level Map – Section 1
- ![Segment 1](DocImages/Segment1.png)
+ ![Segment 1(DocImages/Segment1.PNG)]
 ### 3.3.	Level Map – Section 2
 !(DocImages/Segment2.PNG)
 ### 3.4.	Level Map – Section 3
