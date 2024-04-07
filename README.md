@@ -13,7 +13,7 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![This is the alt text for an image!](DocImages/exampleimage.png)
+![This is the alt text for an image!](DocImages/exampleimage.PNG)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience. 
