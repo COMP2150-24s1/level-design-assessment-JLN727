@@ -93,7 +93,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-![MDiagram](DocImages/MDiagram.PNG)
+![MDiagram](DocImages/Molecule.PNG)
 ### 3.2. Level Map – Section 1
 ![Segment1](DocImages/Segment1.PNG)
 ### 3.3.	Level Map – Section 2
@@ -109,7 +109,7 @@ Iterative design was an excellent helper do my level design as I had originally 
 ![4Example1](DocImages/4Example1.PNG)
 ![4Example2](DocImages/4Example2.PNG)
  Additionally, I was playing around with the portal mechanic using storyboards to figure out how to implement them into my gameworld, which is where I eventually got the idea of using portals as a travel method between segments, as seen here: 
- ![4Example3](DocImages/4Example3.PNG)
+![4Example3](DocImages/4Example3.PNG)
 Finally, while experimenting with the design of the level segments, I had an outside source play the game in the form of my Mother to get a grasp on a low to moderately skilled players perspective. She cleared the whole level after around 10 minutes (after multiple attempts). She did note that the jumps were a bit too difficult in the later sections, which could be improved further using the iterative design method in order to accommodate for lower skilled players while maintaining a healthy skill gap for difficulty and tension curves.
 
 ## Generative AI Use Acknowledgement
